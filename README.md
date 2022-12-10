@@ -6,7 +6,7 @@ A collection of everything related to the Solarpunk genre/movement
 ## Podcasts
 
 - [Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes) by James Tomasino
-- [From What If To What Next](https://podcasts.apple.com/gb/podcast/from-what-if-to-what-next/id1538281063)
+- [From What If To What Next](https://podcasts.apple.com/gb/podcast/from-what-if-to-what-next/id1538281063) by Rob Hopkins
 
 ## Books
 
@@ -16,4 +16,4 @@ A collection of everything related to the Solarpunk genre/movement
 
 ### Philosophy
 
-- [From What Is To What If](https://www.robhopkins.net/the-book/)
+- [From What Is To What If](https://www.robhopkins.net/the-book/) by Rob Hopkins
