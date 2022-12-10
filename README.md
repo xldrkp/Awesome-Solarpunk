@@ -6,7 +6,14 @@ A collection of everything related to the Solarpunk genre/movement
 ## Podcasts
 
 - [Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes) by James Tomasino
+- [From What If To What Next](https://podcasts.apple.com/gb/podcast/from-what-if-to-what-next/id1538281063)
 
 ## Books
 
+### Fiction
+
 - [Pantopia](https://www.fischerverlage.de/buch/theresa-hannig-pantopia-9783596706402) by Theresa Hannig (German)
+
+### Philosophy
+
+- [From What Is To What If](https://www.robhopkins.net/the-book/)
